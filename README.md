@@ -1,4 +1,4 @@
-## Seja bem vindo, Cauê Robattini aqui!!
+## Seja bem vindo, Cauê Robattini aqui!!  :guitar: 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauegr/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12162988252)
