@@ -3,11 +3,11 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauegr/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12162988252)
 
-![CaueRobattini GitHub stats](https://github-readme-stats.vercel.app/api?username=CaueGR&show_icons=true&theme=synthwave)
+![CaueRobattini GitHub stats](https://github-readme-stats.vercel.app/api?username=CaueGR&show_icons=true&theme=dark)
 
 ### Linguagens mais usadas : 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaueGR&layout=compact&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaueGR&layout=compact&theme=dark)
 
 ## Tecnologias que uso no meu dia a dia : 
 <div style="display : inline_block">
